@@ -3,7 +3,7 @@
  * @description Default controls to video
  * @version 1.0.0
  * @author Gloat
- * @updateUrl
+ * @updateUrl https://raw.githubusercontent.com/gloatoriginal/default-controls/refs/heads/main/defaultcontrols.plugin.js
  */
 
 function setControls() {
